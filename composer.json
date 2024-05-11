@@ -1,0 +1,16 @@
+{
+  "name": "sakthach/mvc",
+  "authors": [
+    {
+      "name": "sam",
+      "email": "tsak99@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  },
+  "require": {}
+}
